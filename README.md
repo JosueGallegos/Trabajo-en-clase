@@ -19,3 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 Josue Gallegos, Bryan Borquecho,
+La utilidad del código proporcionado radica en su capacidad para recomendar personas con gustos similares dentro de un grupo. Al definir una clase Person con atributos básicos y una lista de gustos, y luego implementar un método recommendSimilarPersons, se crea una herramienta sencilla pero efectiva para encontrar y sugerir personas con intereses comunes. Esta funcionalidad puede ser útil en diversas aplicaciones sociales o de networking, donde es importante conectar individuos basados en sus preferencias y aficiones compartidas.
